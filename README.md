@@ -1,6 +1,6 @@
 # hal_temporizador - Temporizador para RedM [Standalone]
 
-autor  https://github.com/ghostrecom
+Autor  https://github.com/ghostrecom
 ## Features
 
 
