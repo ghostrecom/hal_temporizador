@@ -24,6 +24,8 @@ autor  https://github.com/ghostrecom
 
 ```
 
+- statusTemp will return false when the time is up
+
 ## Legal
 License
 hal_temporizador - temporizador para RedM [Standalone]
