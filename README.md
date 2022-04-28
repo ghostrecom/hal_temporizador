@@ -1,16 +1,13 @@
-# hal_temporizador - Temporizador para RedM [Standalone]
+# hal_temporizador - timer for RedM [Standalone]
 
 Autor  https://github.com/ghostrecom
-## Features
-
 
 ### Installation
-
 
 - Add the resource to your `server.cfg` to make sure it's started at server startup:
 
 ```
- [start temporizador]
+ [start timer]
  
  local statusTemp = exports.hal_temporizador:run(true,70) -- time in seconds
 
@@ -18,7 +15,7 @@ Autor  https://github.com/ghostrecom
 
 
 ```
- [stop temporizador]
+ [stop timer]
  
  local statusTemp = exports.hal_temporizador:run(false,0)
 
