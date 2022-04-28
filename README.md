@@ -10,14 +10,16 @@ autor  https://github.com/ghostrecom
 - Add the resource to your `server.cfg` to make sure it's started at server startup:
 
 ```
-    (start temporizador)
+ [star temporizador]
+ 
  local statusTemp = exports.hal_temporizador:run(true,70) -- time in seconds
 
 ```
 
 
 ```
-  (stop temporizador)
+ [stop temporizador]
+ 
  local statusTemp = exports.hal_temporizador:run(false,0)
 
 ```
