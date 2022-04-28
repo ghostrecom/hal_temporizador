@@ -11,7 +11,7 @@ autor  https://github.com/ghostrecom
 
 ```
     (start temporizador)
- local statusTemp = exports.hal_temporizador:run(true,70)
+ local statusTemp = exports.hal_temporizador:run(true,70) -- time in seconds
 
 ```
 
