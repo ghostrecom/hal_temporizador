@@ -2,7 +2,7 @@
 
 Autor  https://github.com/ghostrecom
 
-### Installation
+### Screenshot
 
 ![image](https://user-images.githubusercontent.com/53305213/165782890-718a180a-9637-452c-b04c-cd54f7e0104b.png)
 
@@ -10,7 +10,7 @@ Autor  https://github.com/ghostrecom
 
 ![image](https://user-images.githubusercontent.com/53305213/165782804-540ffa8f-bcae-48b9-ad45-7afe2257db25.png)
 
-
+### Installation
 
 - Add the resource to your `server.cfg` to make sure it's started at server startup:
 
